@@ -1,4 +1,3 @@
-"use strict";
 
 const options ={
     name: 'text',
