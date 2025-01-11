@@ -112,7 +112,7 @@ showAgeAndLangs: function(plan) {
 }
 };
 
-personalPlanPeter.showAgeAndLangs(personalPlanPeter);
+showAgeAndLangs(personalPlanPeter);
 
 function showExperience(plan) {
 const {exp} = plan.skills;
