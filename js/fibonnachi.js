@@ -23,4 +23,4 @@ function fib(num) {
     return result;
 }
 
-fib(5);
+console.log(fib(5));
