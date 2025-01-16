@@ -110,7 +110,7 @@ showAgeAndLangs: function(plan) {
 
     return str;
 }
-};
+
 
 showAgeAndLangs(personalPlanPeter);
 

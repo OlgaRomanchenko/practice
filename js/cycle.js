@@ -80,14 +80,14 @@ for (let i = 5; i < 11; i++) {
 
 
 const arr = [3, 5, 8, 16, 20, 23, 50];
-const results = [];
+let results = [];
 
 let b = arr.length;
 
 for (let i =0; i<b; i++){
-    result[i] = arr[i];
+    results[i] = arr[i];
 }
-console.log(result);
+console.log(results);
     
     
 let resultss = "";
